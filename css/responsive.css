@@ -1,0 +1,25 @@
+
+
+@media(max-width:768px){
+    .nav-items{
+        text-align: center!important;
+    }
+
+    .pricing{
+        height: auto;
+        margin-top: 50px;
+    }
+
+    .card-second{
+        transform: translateY(0px);
+        margin: 30px 0;
+    }
+    .contact p{
+        padding: 0 50px;
+    }
+
+    .footer-div:nth-child(2){
+        text-align: left!important;
+    }
+
+}
